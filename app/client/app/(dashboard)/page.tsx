@@ -1,5 +1,5 @@
+const LandingPage = async () => {
 
-const LandingPage = () => {
   return (
     <div>LandingPage</div>
   )
